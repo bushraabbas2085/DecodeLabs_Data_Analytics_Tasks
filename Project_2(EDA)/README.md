@@ -72,7 +72,7 @@ Created visual representations to understand the dataset, including:
 
 ## Project Files
 
-| File/Folder | Description |
+| File | Description |
 |---|---|
 | `README.md` | Project documentation |
 | `Project_2.ipynb` | Python notebook containing the EDA process |
