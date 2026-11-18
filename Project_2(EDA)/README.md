@@ -76,8 +76,9 @@ Created visual representations to understand the dataset, including:
 |---|---|
 | `README.md` | Project documentation |
 | `Project_2.ipynb` | Python notebook containing the EDA process |
-| `Cleaned_Dataset.xlsx` | Dataset used for analysis |
+| `Cleaned_Dataset.csv` | Dataset used for analysis |
 | `EDA_Analysis_Report.xlsx` | Excel report containing analysis and findings |
+| `.png files` | Exploratory Data Analysis visuals |
 
 ## Key Learnings
 
