@@ -54,10 +54,8 @@ Saved the cleaned dataset in Excel format for future analytical tasks.
 | File | Description |
 |---|---|
 | `Project_1.ipynb` | Python notebook containing the complete cleaning process |
-| `Dataset for Data Analytics.csv
-and Dataset for Data Analytics.xlsx` | Raw Dataset files |
-| `Cleaned_Dataset.csv
-and Cleaned_Dataset.xlsx` | Cleaned dataset files |
+| `Dataset for Data Analytics.csv` and `Dataset for Data Analytics.xlsx` | Raw Dataset files |
+| `Cleaned_Dataset.csv`and `Cleaned_Dataset.xlsx` | Cleaned dataset files |
 | `Data_Cleaning_using_excel.xlsx` | Excel Data Cleaning Workbook |
 
 ## Key Learnings
