@@ -53,7 +53,7 @@ Saved the cleaned dataset in Excel format for future analytical tasks.
 
 | File | Description |
 |---|---|
-| `Data_Cleaning.ipynb` | Python notebook containing the complete cleaning process |
+| `Project_1.ipynb` | Python notebook containing the complete cleaning process |
 | `Dataset for Data Analytics.csv` | Dataset file |
 | `Cleaned_Dataset.csv` | Cleaned dataset |
 
