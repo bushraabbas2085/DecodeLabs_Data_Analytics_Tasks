@@ -137,10 +137,13 @@ This project strengthened my understanding of SQL and relational database manage
 
 By implementing SELECT, WHERE, ORDER BY, GROUP BY, and aggregate functions, I developed practical skills in retrieving and summarizing structured data using PostgreSQL.
 
-This project represents another step in my Data Analytics learning journey at DecodeLabs.
+## Internship Information
+
+**Organization:** DecodeLabs  
+**Role:** Data Analytics Intern  
+**Project:** 03 – SQL Data Analysis
 
 ---
 
-**Internship:** DecodeLabs – Data Analytics Internship   
-**Project:** Project 3 – SQL Data Analysis  
-**Database:** PostgreSQL 16
+*This project is part of my ongoing Data Analytics learning journey at DecodeLabs.*
+
