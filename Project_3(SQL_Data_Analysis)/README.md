@@ -21,7 +21,7 @@ The project uses the cleaned e-commerce dataset from Project 1 (Data Cleaning an
 
 **Dataset Details:**
 - Dataset: Cleaned E-commerce Dataset
-- Records: 1,200 orders (expected)
+- Records: 1,200 orders
 - Columns: 14
 - Format: CSV
 - Database: PostgreSQL
