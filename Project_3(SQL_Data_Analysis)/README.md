@@ -113,7 +113,7 @@ The SQL queries were designed to answer the following questions:
 ### Project Files
 
 ```text
-DecodeLabs_Project_3/
+Project_3(SQL_Data_Analysis)/
 │
 ├── Cleaned_Dataset.csv
 ├── Project_3.sql
@@ -141,7 +141,6 @@ This project represents another step in my Data Analytics learning journey at De
 
 ---
 
-**Internship:** DecodeLabs – Data Analytics Internship  
-**Batch:** 2026  
+**Internship:** DecodeLabs – Data Analytics Internship   
 **Project:** Project 3 – SQL Data Analysis  
 **Database:** PostgreSQL 16
