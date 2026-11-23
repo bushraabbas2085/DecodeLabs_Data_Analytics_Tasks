@@ -1,4 +1,4 @@
-# DecodeLabs Data Analytics Internship – Project 3
+# Project 3: DecodeLabs Data Analytics Internship
 ## SQL Data Analysis Using PostgreSQL
 
 ### Project Overview
@@ -117,6 +117,7 @@ Project_3(SQL_Data_Analysis)/
 │
 ├── Cleaned_Dataset.csv
 ├── Project_3.sql
+├── Project_3_SQL_Analysis_Report.pdf
 └── README.md
 ```
 
