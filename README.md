@@ -165,7 +165,7 @@ Successfully used SQL to retrieve, filter, group, and summarize e-commerce data,
 
 ---
 
-## 📈 Skills Developed
+## Skills Developed
 
 Through these projects, I gained practical experience in:
 
@@ -184,7 +184,7 @@ Through these projects, I gained practical experience in:
 
 ---
 
-## 🔄 Data Analytics Workflow
+## Data Analytics Workflow
 
 The three projects collectively demonstrate the following data analytics workflow:
 
@@ -216,7 +216,7 @@ The three projects collectively demonstrate the following data analytics workflo
 
 ---
 
-## 🎯 Internship Learning Objectives
+## Internship Learning Objectives
 
 The main learning objectives of this internship include:
 
@@ -230,7 +230,7 @@ The main learning objectives of this internship include:
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I am a **Software Engineering Graduate** with an interest in Data Analytics, Artificial Intelligence, and Machine Learning.
 
@@ -240,7 +240,7 @@ This repository represents my learning journey and practical work during my Data
 
 ---
 
-## 📌 Acknowledgment
+## Acknowledgment
 
 I would like to thank **DecodeLabs** for providing the opportunity to gain practical experience and strengthen my understanding of Data Analytics through structured internship projects.
 
@@ -251,4 +251,4 @@ I would like to thank **DecodeLabs** for providing the opportunity to gain pract
 **Projects Completed:** 3  
 **Status:** Internship Projects – Completed Work Documented in Individual Project Folders
 
-⭐ If you find this repository useful, feel free to explore the projects and their documentation.
+If you find this repository useful, feel free to explore the projects and their documentation.
