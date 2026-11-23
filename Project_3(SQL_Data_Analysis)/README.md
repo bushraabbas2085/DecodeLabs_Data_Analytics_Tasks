@@ -112,14 +112,13 @@ The SQL queries were designed to answer the following questions:
 
 ### Project Files
 
-```text
-Project_3(SQL_Data_Analysis)/
-│
-├── Cleaned_Dataset.csv
-├── Project_3.sql
-├── Project_3_SQL_Analysis_Report.pdf
-└── README.md
-```
+| File | Description |
+|---|---|
+| `README.md` | Project documentation |
+| `Project_3.sql` | SQL file containing project sql queries |
+| `Cleaned_Dataset.csv` | Dataset used for analysis |
+| `Project_3_SQL_Analysis_Insights_Report.pdf` | Project Insights Report |
+| `.png files` | Proves of successful Database and table creation |
 
 ### Learning Outcomes
 Through this project, I gained practical experience in:
